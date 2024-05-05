@@ -1,0 +1,26 @@
+[
+  {
+    "navn": "Ruslesvork",
+    "beskrivelse": "De små og kraftige bladene tørkes og knuses. Blandes med vaselin. Salven virker dempende på insektstikk.",
+    "bildefil": "P1000838.png",
+    "pris": "210"
+  },
+  {
+    "navn": "Murblad",
+    "beskrivelse": "De tykke saftige bladene knuses og saften blandes med nøytral olje. Virker antiseptisk mot sår og rifter.",
+    "bildefil": "P1000836.png",
+    "pris": "189"
+  },
+  {
+    "navn": "Fjonebjørk",
+    "beskrivelse": "Frøraklene inntas før et måltid. Virker appetitt-hemmende. Perfekt for panikkslanking.",
+    "bildefil": "P1000840.png",
+    "pris": "129"
+  },
+  {
+    "navn": "Stangsokk",
+    "beskrivelse": "Se små blomstene tørkes og brukes som te. Har en avslappende virkning.",
+    "bildefil": "P1000841.png",
+    "pris": "278"
+  }
+]
