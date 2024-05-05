@@ -1,22 +1,17 @@
 [
 {
-"spørsmål": "Hva heter det bilder deles ned i?",
-"svar": "piksler"
+"spørsmål": "Hva heter det bilder deles ned i?"
 },
 {
-"spørsmål": "Hvilken enhet brukes når vi måler spenningsnivå`?",
-"svar": "Hz"
+"spørsmål": "Hvilken enhet brukes når vi måler spenningsnivå?"
 },
 {
-"spørsmål": "HVor mange bilder per sekund vises ved bruk av NTSC-system?",
-"svar": "30"
+"spørsmål": "HVor mange bilder per sekund vises ved bruk av NTSC-system?"
 },
 {
-"spørsmål": "Hva gjør vi med data når vi skal redusere antall tall som lagres?",
-"svar": "Komprimerer"
+"spørsmål": "Hva gjør vi med data når vi skal redusere antall tall som lagres?"
 },
 {
-"spørsmål": "Hva er de to vanligste måtene å beskrive farge på?",
-"svar": "RGB-verdier eller CMYK-verdier"
-},
+"spørsmål": "Hva er de to vanligste måtene å beskrive farge på?"
+}
 ]
